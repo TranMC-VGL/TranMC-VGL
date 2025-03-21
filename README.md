@@ -1,5 +1,5 @@
 <!--Banner-->
-![TranMC Banner Image](./banner.png)
+<!--![TranMC Banner Image](./banner.png)-->
 
 <!--Night Owl image-->
 
