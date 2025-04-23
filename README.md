@@ -1,22 +1,24 @@
 <!--Banner-->
-<!--![TranMC Banner Image](./banner.png)-->
-
-<!--Night Owl image-->
-
-<!--Header Name-->
-
-
-<!--Start Intro-->               
-
-<!--End Intro-->
 
 <!--Profile Count Badge-->
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=TranMC&label=Profile%20views&color=770677&style=for-the-badge&logo=star" alt="TranMC" style="padding-right:20px;" />
 </p>
 
----
+<h2 align="center"> 🌆 Stats and Language 🌆</h2>
+<p align="center">
+<!--Stats and Language show-->
+<p align="center">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=TranMC&show_icons=true&hide_border=true&title_color=94b4a4&amp&icon_color=FFFFFF&amp&text_color=FFFFFF&amp&bg_color=000000&count_private=true&include_all_commits=true"/>
+    <img align="center" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TranMC&text_color=FFFFFF&bg_color=000000&title_color=94b4a4&langs_count=15&layout=compact&hide_border=true" />
+</p>
 
+<!--Activity Graph-->
+<h2 align="center">📈 Contribution Graph 📉</h2>
+<p align="center">
+<a href="https://github.com/ashutosh00710/github-readme-activity-graph">
+  <img alt="TranMC's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=TranMC&bg_color=000000&color=94b4a4&line=FFFFFF&point=FFFFFF&hide_border=true" />
+</a>
 
 <!--Languages and Tools Section-->       
 
@@ -42,39 +44,8 @@
 </p>
 <br />
 
-<!--Github stats Table--> 
-<h2 align="center">📊 Gɪᴛʜᴜʙ Sᴛᴀᴛs 📊</h2>
 
-<table width="100%">
-  <tr>
-    <td width="50%">
-      <h3 align="center"><strong>Gɪᴛʜᴜʙ Sᴛᴀᴛs</strong></h3>
-      <p align="center">
-        <a href="https://github.com/TranMC">
-          <img align="center" src="https://github-readme-stats.vercel.app/api?username=TranMC&count_private=true&show_icons=true&theme=nightowl&bg_color=0,000000,441350&title_color=c56a90&text_color=ffffff&rank_icon=github&hide=prs,issues,contribs&show=reviews,prs_merged,prs_merged_percentage" alt="GitHub Stats" />
-        </a>
-      </p>
-    </td>
-    <td width="50%">
-      <h3 align="center"><strong>Sᴛʀᴇᴀᴋ Sᴛᴀᴛs</strong></h3>
-      <p align="center">
-        <a href="https://github.com/TranMC">
-          <img align="center" src="https://streak-stats.demolab.com?user=TranMC&theme=nightowl&background=0,000000,441350&fire=ffeb95&ring=ffeb95&sideNums=ffffff&sideLabels=ffffff&dates=c56a90&currStreakNum=ffffff" alt="Streak Stats" />
-        </a>
-      </p>
-    </td>
-  </tr>
 
-</table>
-<br />
-
-<!--Contribution Graph-->
-<h2 align="center">📈 Cᴏɴᴛʀɪʙᴜᴛɪᴏɴ Gʀᴀᴘʜ 📈</h2>
-<div align="center">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=TranMC&bg_color=220a28&&color=ffffff&line=c56a90&point=ffeb95&area=false&hide_border=false" border-radius="15">
-</div>
-
----
 
 <!--Dynamic Quote card updates everyday at 12 PM--> 
 <h2 align="center">🌟 Tʜᴏᴜɢʜᴛ ᴏғ ᴛʜᴇ Dᴀʏ 🌟</h2>
