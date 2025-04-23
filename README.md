@@ -20,8 +20,22 @@
   <img alt="TranMC's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=TranMC&bg_color=000000&color=94b4a4&line=FFFFFF&point=FFFFFF&hide_border=true" />
 </a>
 
-<!--Languages and Tools Section-->       
+<!--Repo-->       
+<details open> 
+  <summary><h2>📘 Featured Projects</h2></summary>
+  <p align="left">
+    <a href="https://github.com/Justroamming/lms-finaltest">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=Justroamming&repo=lms-finaltest&bg_color=000000&title_color=94b4a4&text_color=FFFFFF&icon_color=FFFFFF&hide_border=true&show_owner=true&description_lines_count=2" alt="cursor-free-vip">
+    </a>
+    <a href="https://github.com/Justroamming/ScoreAPI">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=Justroamming&repo=ScoreAPI&bg_color=000000&title_color=94b4a4&text_color=FFFFFF&icon_color=FFFFFF&hide_border=true&show_owner=true&description_lines_count=2" alt="VisualPlayer">
+    </a>
+    </p>
 
+  <a href="https://github.com/TranMC?tab=repositories&sort=stargazers">
+    <img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.demolab.com/badge/-Click%20Here%20For%20All%20My%20Repos-000000?style=for-the-badge&logoColor=white&logo=repo"/>
+  </a>
+</details>
 
 <!--Trophies Section-->   
 <h2 align="center">🏆 Gɪᴛʜᴜʙ Tʀᴏᴘʜɪᴇs 🏆</h2>
