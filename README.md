@@ -78,6 +78,9 @@
   <a href="https://www.github.com/TranMC" target="_blank">
     <img src="./github.png" width="50" height="50" alt="TranMC GitHub" style="margin: 0 10px;" />
   </a>
+    <a href="https://x.com/mctran2005" target="_blank">
+    <img src="./twitter.png" width="50" height="50" alt="TranMC Twitter" style="margin: 0 10px;" />
+  </a>
 </p>
 
 <!-- Footer -->
