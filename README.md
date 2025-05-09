@@ -57,12 +57,6 @@
   </a>
 </p>
 
-<p align="center">
-  <a href="https://github.com/daytonaio/daytona">
-    <img src="https://api.vaunt.dev/v1/github/entities/TranMC/achievements?format=svg&limit=6" width="400" />
-  </a>
-</p>
-
 <!-- Thought of the Day -->
 <h2 align="center">🌟 Tʜᴏᴜɢʜᴛ ᴏғ ᴛʜᴇ Dᴀʏ 🌟</h2>
 <p align="center">
