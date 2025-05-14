@@ -36,6 +36,12 @@
     <a href="https://github.com/Justroamming/ScoreAPI">
       <img src="https://github-readme-stats.vercel.app/api/pin/?username=Justroamming&repo=ScoreAPI&bg_color=000000&title_color=94b4a4&text_color=FFFFFF&icon_color=FFFFFF&hide_border=true&show_owner=true&description_lines_count=2" alt="ScoreAPI">
     </a>
+    <a href="https://github.com/TranMC/bicomex-web">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=TranMC&repo=bicomex-web&bg_color=000000&title_color=94b4a4&text_color=FFFFFF&icon_color=FFFFFF&hide_border=true&show_owner=true&description_lines_count=2" alt="bicomex-web">
+    </a>
+    <a href="https://github.com/TranMC/cursor-free-vip">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=TranMC&repo=cursor-free-vip&bg_color=000000&title_color=94b4a4&text_color=FFFFFF&icon_color=FFFFFF&hide_border=true&show_owner=true&description_lines_count=2" alt="cursor-free-vip">
+    </a>
   </p>
 
   <p align="center">
